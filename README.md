@@ -13,9 +13,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=aurnabnil66&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aurnabnil66&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aurnabnil66&show_icons=true&theme=radical)
-
-![](https://github-readme-stats.vercel.app/api?username=aurnabnil66&hide=contribs,prs)
+## 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aurnabnil66&theme=vue"/>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aurnabnil66&icon=0&color=0)](https://visitcount.itsvg.in)
