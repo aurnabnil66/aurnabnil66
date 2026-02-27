@@ -1,5 +1,9 @@
-![Hola](https://img.shields.io/badge/Hola-Aurnab%20Paul-blueviolet?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=aurnabnil66&label=Profile%20Views&color=blue&style=for-the-badge)
+<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Aurnab paul</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aurnabnil66&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
 
 # 💫 About Me:
 🔭 I’m currently working on building full-stack web & mobile applications  <br>👯 I’m looking to collaborate on open-source projects and real-world SaaS ideas  <br>🤝 I’m looking for help with backend architecture and system design  <br>🌱 I’m currently learning backend development (Node.js, GraphQL, Prisma, PostgreSQL)  <br>💬 Ask me about React, React Native, GraphQL APIs, and frontend architecture  <br>⚡ Fun fact: I started as a frontend dev, and now I’m obsessed with backend systems 😄
