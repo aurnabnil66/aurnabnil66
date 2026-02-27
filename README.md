@@ -1,4 +1,4 @@
-<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center"> Hey, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Aurnab paul</h1>
@@ -21,7 +21,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aurnabnil66&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 💳 Github Profile Summary Card
-<p align="center">
+<p style="text-align: left;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aurnabnil66&theme=vue"/>
 </p>
 
