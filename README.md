@@ -11,9 +11,9 @@
   </h1>
 
   <!-- Views Badge -->
-  <div style="margin-top:-15px;">
-    ![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
-  </div>
+ <div style="margin-top:-15px;">
+  <img src="https://komarev.com/ghpvc/?username=aurnabnil66&abbreviated=true" alt="Profile views" />
+</div>
 
 </div>
 
