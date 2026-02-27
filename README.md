@@ -12,8 +12,8 @@
 
   <!-- Views Badge -->
  <div style="margin-top:-15px;">
-  <img src="https://komarev.com/ghpvc/?username=aurnabnil66&label=Views&color=blue&style=plastic&style=for-the-badge" alt="aurnabnil66" />
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aurnabnil66.aurnabnil66" />
+  <img src="https://komarev.com/ghpvc/?username=aurnabnil66&label=Views&color=blue&style=plastic&style=flat" alt="aurnabnil66" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aurnabnil66.aurnabnil66" />
 </div>
 
 </div>
