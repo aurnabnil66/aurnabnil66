@@ -13,6 +13,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=aurnabnil66&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aurnabnil66&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+[![Aurnab Nil](https://github-readme-stats.vercel.app/api?username=aurnabnil66)](https://github.com/aurnabnil66/github-readme-stats)
+
 ![](https://github-readme-stats.vercel.app/api?username=aurnabnil66&hide=contribs,prs)
 
 ---
