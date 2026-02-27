@@ -13,7 +13,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=aurnabnil66&theme=material-palenight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aurnabnil66&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=aurnabnil66&icon=0&color=0)](https://visitcount.itsvg.in)
+# [![](https://visitcount.itsvg.in/api?id=aurnabnil66&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
