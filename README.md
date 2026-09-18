@@ -30,7 +30,7 @@
 
 ## 💳 Github Profile Summary Card
 <p style="text-align: left;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aurnabnil66&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aurnabnil66&theme=transparent&name=Aurnab+Paul&title_color=667fff"/>
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
